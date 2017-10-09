@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 也许这就是哎啊 啊
 
 
@@ -18,4 +19,9 @@ fsdfhsd
 =======
 fsdfhsd
 >>>>>>> parent of 5614052... add chinese
+=======
+fsdfhsd
+>>>>>>> parent of 5614052... add chinese
+
+
 there is no saying ,it is just a poem
