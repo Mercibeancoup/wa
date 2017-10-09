@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 也许这就是哎啊 啊
 
 
@@ -9,3 +10,7 @@
 fsdfhsd
 
 it is our commit
+防守对方脸上
+=======
+fsdfhsd
+>>>>>>> parent of 5614052... add chinese
